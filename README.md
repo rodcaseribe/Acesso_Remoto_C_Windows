@@ -14,4 +14,6 @@ Redirecionar pro IIS: more C:\Windows\System32\LogFiles\Firewall\pfirewall.log |
 
 /* Cliente */
 
+![soft2](https://user-images.githubusercontent.com/9101840/33723762-a73f9452-db54-11e7-894a-b325956cb0fe.png)
+
 
