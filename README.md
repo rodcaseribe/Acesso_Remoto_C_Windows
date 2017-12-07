@@ -1,4 +1,4 @@
-# Acesso_Remoto_C_Windows
+# Acesso_Remoto_C_Windows + acesso KMS Office
 /*	Servidor - Comando
 
 Comando como ADM: more C:\Windows\System32\LogFiles\Firewall\pfirewall.log | find "ICMP"
