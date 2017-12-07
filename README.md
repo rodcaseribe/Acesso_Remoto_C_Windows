@@ -1,5 +1,5 @@
 # Acesso_Remoto_C_Windows
-/*	LISTEN SERVER COMANDS
+/*	Servidor - Comando
 
 Comando como ADM: more C:\Windows\System32\LogFiles\Firewall\pfirewall.log | find "ICMP"
 
